@@ -18,6 +18,6 @@
 
         {"key":"lf_search","name":"搜索","type":3,"api":"./lib/lf_search.min.js","searchable":0,"changeable":1},
         {"key":"lf_p2p","name":"磁力","type":3,"api":"./lib/lf_p2p.min.js","searchable":1,"changeable":0,"timeout":30},
-        {"key":"lf_live","name":"直播","type":3,"api":"./lib/lf_live.min.js","ext":"./txt/lf_live.txt","style":{"type":"oval"},"searchable":0,"changeable":0}
+        {"key":"lf_live","name":"直播","type":3,"api":"./lib/lf_live.min.js","ext":"./txt/lf_live.txt","style":{"type":"oval"},"searchable":0,"changeable":0,"recordable":0,"playerType":1}
     ]
 }
