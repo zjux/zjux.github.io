@@ -3,8 +3,6 @@
     "lives":[{"name":"live","type":0,"url":"./live/live.txt"}],
     "sites":[
         {"key":"csp_douban","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"changeable":1},
-        {"key":"csp_ddys","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"changeable":1},
-        {"key":"csp_libvio","name":"利播","type":3,"api":"csp_Libvio","ext":"https://www.libvio.pro/","searchable":1,"changeable":1},
         {"key":"csp_wogg","name":"玩偶","type":3,"api":"csp_WoGG","ext":"./txt/token.txt+auto|4k|fhd$$$https://www.wogg.xyz/","searchable":1,"changeable":1},
         {"key":"csp_pansou","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":1},
         {"key":"csp_yiso","name":"易搜","type":3,"api":"csp_YiSo","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":1},
