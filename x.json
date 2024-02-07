@@ -2,7 +2,7 @@
     "spider":"./jar/fty.jar",
     "lives":[{"name":"live","type":0,"url":"./live/live.txt"}],
     "sites":[
-        {"key":"csp_douban","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"changeable":1},
+        {"key":"csp_douban","name":"搜索","type":3,"api":"csp_DouDou","searchable":0,"changeable":1},
         {"key":"csp_wogg","name":"玩偶","type":3,"api":"csp_WoGG","ext":"./txt/token.txt+auto|4k|fhd$$$https://www.wogg.xyz/","searchable":1,"changeable":1},
         {"key":"csp_pansou","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":1},
         {"key":"csp_yiso","name":"易搜","type":3,"api":"csp_YiSo","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":1},
@@ -10,7 +10,7 @@
         {"key":"csp_dovx","name":"七夜","type":3,"api":"csp_Dovx","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":1},
         {"key":"csp_pansearch","name":"盘搜索","type":3,"api":"csp_PanSearch","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":1},
 
-        {"key":"drpy_douban","name":"豆瓣┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js","searchable":0,"changeable":1},
+        {"key":"drpy_douban","name":"搜索┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/搜索.js","searchable":0,"changeable":1},
         {"key":"drpy_jianpian","name":"荐片┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"changeable":0,"timeout":30},
         {"key":"drpy_cilixiong","name":"磁力熊┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js","searchable":1,"changeable":0,"timeout":30},
 
