@@ -7,7 +7,7 @@ var rule = {
     class_url:'推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险&历史记录',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
-    filter_def:{
+    //filter_def:{
         推荐:{tid:'推荐'},
         历史记录:{tid:'历史记录'},
         经典无损音乐合集:{tid:'经典无损音乐合集'},
