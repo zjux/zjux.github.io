@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/fty.jar",
+    "spider":"./jar/fty.jar;md5;5543dae038ce2248e7759e9cbca295b9",
     "lives":[{"name":"live","type":0,"url":"./live/live.txt"}],
     "sites":[
         {"key":"csp_douban","name":"搜索","type":3,"api":"csp_DouDou","searchable":0,"changeable":1},
