@@ -1,27 +1,5 @@
-/**
- * 已知问题：
-    * [推荐]页面：'雷电模拟器'播放部份影片会出错，'播放器'改成'ijk' & '解码方式'改成'软解'，即可正常播放
- * 影视TV 超連結跳轉支持
- * 影视TV 弹幕支持
-    * https://t.me/fongmi_offical/
-    * https://github.com/FongMi/Release/tree/main/apk
- * 皮皮虾DMBox 弹幕支持
-    * 设置 > 窗口预览 > 开启
-    * https://t.me/pipixiawerun
-    * vod_area:'bilidanmu'
- * Cookie设置
-    * Cookie获取方法 https://ghproxy.net/https://raw.githubusercontent.com/UndCover/PyramidStore/main/list.md
- * Cookie设置方法1: DR-PY 后台管理界面
-    * CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
- * Cookie设置方法2: 手动替换Cookie
-    * 底下代码 headers的
-    * "Cookie":"$bili_cookie"
-    * 手动替换为
-    * "Cookie":"将获取的Cookie黏贴在这"
- */
-
 var rule = {
-    title:'我的哔哩',
+    title:'哔哩',
     host:'https://api.bilibili.com',
     // homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
