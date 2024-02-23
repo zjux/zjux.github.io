@@ -1,9 +1,9 @@
 #本地
 ../live/x.txt
 
-#1
-https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-#2
+#Fanmingming
 https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-#3
+#Yuechan
 https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+#Yang
+https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
