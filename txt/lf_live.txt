@@ -8,5 +8,11 @@ https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 #Yang
 https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
-#iptv
-https://iptv-org.github.io/iptv/index.m3u
+#xxx
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+#cn
+https://iptv-org.github.io/iptv/countries/cn.m3u
+#jp
+https://iptv-org.github.io/iptv/countries/jp.m3u
+#kr
+https://iptv-org.github.io/iptv/countries/kr.m3u
