@@ -10,8 +10,8 @@ https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.
 
 #xxx
 https://iptv-org.github.io/iptv/categories/xxx.m3u
-#cn
-https://iptv-org.github.io/iptv/countries/cn.m3u
+#gj
+https://iptv-org.github.io/iptv/index.country.m3u
 #jp
 https://iptv-org.github.io/iptv/countries/jp.m3u
 #kr
