@@ -28,3 +28,31 @@ KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+X,#genre#
+x,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:/playlist.m3u8
+thatgirl___,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:thatgirl___/playlist.m3u8
+marin_kitagava,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:marin_kitagava/playlist.m3u8
+ladysweet_x,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ladysweet_x/playlist.m3u8
+sonya_keller,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sonya_keller/playlist.m3u8
+layanaqueen,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:layanaqueen/playlist.m3u8
+dakota_blare,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:dakota_blare/playlist.m3u8
+hee_jin,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:hee_jin/playlist.m3u8
+koketochka555,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:koketochka555/playlist.m3u8
+pussylovekate,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:pussylovekate/playlist.m3u8
+anyeess,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:anyeess/playlist.m3u8
+pbsteve,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:pbsteve/playlist.m3u8
+
+_jikey_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_jikey_/playlist.m3u8
+sigmasian,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sigmasian/playlist.m3u8
+lorileen,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:lorileen/playlist.m3u8
+asian_angel1994,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:asian_angel1994/playlist.m3u8
+
+aya_hitakayama,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:aya_hitakayama/playlist.m3u8
+kittyrave,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:kittyrave/playlist.m3u8
+prettyshina,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:prettyshina/playlist.m3u8
+amiliyan,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:amiliyan/playlist.m3u8
+mary_shiota,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mary_shiota/playlist.m3u8
+yu_jina,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:yu_jina/playlist.m3u8
+angelaasia,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:angelaasia/playlist.m3u8
+_pretty_wendy_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_pretty_wendy_/playlist.m3u8
