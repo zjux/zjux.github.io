@@ -3,15 +3,17 @@
     "lives":[{"name":"live","type":0,"url":"./live/live.txt"}],
     "sites":[
         {"key":"csp_douban","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"changeable":0},
-        
-        {"key":"csp_pansou","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
-        {"key":"csp_yiso","name":"易搜","type":3,"api":"csp_YiSo","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
-        {"key":"csp_upyun","name":"云搜","type":3,"api":"csp_UpYun","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
-        {"key":"csp_pansearch","name":"盘搜索","type":3,"api":"csp_PanSearch","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
+
+        {"key":"csp_wogg","name":"玩偶┃网盘","type":3,"api":"csp_WoGG","ext":"./txt/token.txt+auto|4k|fhd$$$https://www.wogg.xyz/","searchable":1,"changeable":0},
+        {"key":"csp_pansou","name":"盘搜┃网盘","type":3,"api":"csp_PanSou","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
+        {"key":"csp_yiso","name":"易搜┃网盘","type":3,"api":"csp_YiSo","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
+        {"key":"csp_upyun","name":"云搜┃网盘","type":3,"api":"csp_UpYun","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
+        {"key":"csp_pansearch","name":"盘搜索┃网盘","type":3,"api":"csp_PanSearch","ext":"./txt/token.txt+auto|4k|fhd","searchable":1,"changeable":0},
         
         {"key":"drpy_douban","name":"豆瓣┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js","searchable":0,"changeable":0},
         {"key":"drpy_jianpian","name":"荐片┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"changeable":0,"timeout":30},
         {"key":"drpy_cilixiong","name":"磁力熊┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊.js","searchable":1,"changeable":0,"timeout":30},
+        {"key":"drpy_bili","name":"哔哩哔哩┃js","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩.js","searchable":1,"changeable":0},
         
         {"key":"lf_search","name":"搜索┃lf","type":3,"api":"./lib/lf_search.min.js","searchable":0,"changeable":0},
         {"key":"lf_p2p","name":"磁力┃lf","type":3,"api":"./lib/lf_p2p.min.js","searchable":1,"changeable":0,"timeout":30},
