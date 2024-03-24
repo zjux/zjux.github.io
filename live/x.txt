@@ -30,21 +30,27 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 X,#genre#
+55_meganmeow_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_/playlist.m3u8
+※※※※※
+17oda_assuri,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri/playlist.m3u8
+※※※※※※※※※※※※※※※※※※※※※
 mashayang,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mashayang/playlist.m3u8
 hayleex,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:hayleex/playlist.m3u8
 sonya_keller,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sonya_keller/playlist.m3u8
-_meganmeow_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_/playlist.m3u8
+
 pbsteve,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:pbsteve/playlist.m3u8
 thatgirl___,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:thatgirl___/playlist.m3u8
 
 sigmasian,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sigmasian/playlist.m3u8
-oda_assuri,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri/playlist.m3u8
+11ruby_26,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ruby_26/playlist.m3u8
 ※※※※※※※※※※※※※※※※※※※※※
 x,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:/playlist.m3u8
+alphazack14,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:alphazack14/playlist.m3u8
+goth_dolll,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:goth_dolll/playlist.m3u8
 lindabluee,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:lindabluee/playlist.m3u8
 lau__1,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:lau__1/playlist.m3u8
 t0keng1rl,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:t0keng1rl/playlist.m3u8
-ruby_26,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ruby_26/playlist.m3u8
+
 gracieparker,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:gracieparker/playlist.m3u8
 
 emilygrey_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:emilygrey_/playlist.m3u8
