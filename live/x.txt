@@ -33,13 +33,21 @@ X,#genre#
 mashayang,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:mashayang/playlist.m3u8
 hayleex,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:hayleex/playlist.m3u8
 sonya_keller,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sonya_keller/playlist.m3u8
+_meganmeow_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:_meganmeow_/playlist.m3u8
 pbsteve,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:pbsteve/playlist.m3u8
 thatgirl___,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:thatgirl___/playlist.m3u8
 
 sigmasian,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:sigmasian/playlist.m3u8
+oda_assuri,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:oda_assuri/playlist.m3u8
 ※※※※※※※※※※※※※※※※※※※※※
 x,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:/playlist.m3u8
+lindabluee,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:lindabluee/playlist.m3u8
+lau__1,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:lau__1/playlist.m3u8
+t0keng1rl,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:t0keng1rl/playlist.m3u8
+ruby_26,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:ruby_26/playlist.m3u8
+gracieparker,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:gracieparker/playlist.m3u8
 
+emilygrey_,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:emilygrey_/playlist.m3u8
 tinki_winkii,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:tinki_winkii/playlist.m3u8
 babydoll_laura,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:babydoll_laura/playlist.m3u8
 abby_chuchu,https://edge1-nrt.live.mmcdn.com/live-hls/amlst:abby_chuchu/playlist.m3u8
